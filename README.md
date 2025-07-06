@@ -15,9 +15,8 @@ Here’s the correct mapping with the original Oasis Infobyte tasks:
 
 ---
 
-## 📁 Folder Structure
+## 📁 correct Folder Structure of oasis infobyte.
 
-
-- `Task 1` → BMI Calculator  
-- `Task 2` → Password Generator  
-- `Task 3` → Voice Assistant
+- `Task 1` → Voice Assistant  
+- `Task 2` →  BMI Calculator 
+- `Task 3` → Password Generator
